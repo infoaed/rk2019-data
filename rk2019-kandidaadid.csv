@@ -1,3 +1,4 @@
+Nr,Ringkond,Nimi,Erakond,Sünniaeg,Kuuluvus,Haridus,Amet või töö,Telefon,Email,Aadress
 101,1,Andres Herkel,Eesti Vabaerakond,14.08.1962,Eesti Vabaerakond,Kõrgharidus,Riigikogu liige,5056540,andres.herkel@gmail.com,
 102,1,Õie-Mari Aasmäe,Eesti Vabaerakond,07.09.1984,Puudub,Kõrgharidus,"Pikapäkk OÜ, tegevjuht",56691750,,
 103,1,Jaak Prozes,Eesti Vabaerakond,04.04.1965,Eesti Vabaerakond,Kõrgharidus,"Fenno-Ugria Asutus, nõunik",5012319,jaak.prozes@fennougria.ee,
@@ -722,7 +723,7 @@
 822,2,Pavel Starkov,Erakond Eesti 200,13.06.1983,Erakond Eesti 200,Kõrgharidus,"Tallinna Tehnikaülikool, sihtrahastusega vanemteadur",56864320,pavel@starkov.ee,
 823,2,Ülle Kask,Erakond Eesti 200,30.08.1963,Puudub,Keskharidus (sh keskeriharidus),-,56488205,yllekale@hotmail.com,
 824,2,Aleksandr Maiorov,Erakond Eesti 200,24.04.1990,Erakond Eesti 200,Kõrgharidus,arhitekt,55918404,amaioreu@gmail.com,
-825,2,Erik Vest,Erakond Eesti 200,02.02.1973,Puudub,Kõrgharidus,"Riigi Kinnisvara AS, arendus- ja ehitusprojektijuht",56267644,"vest.erik@gmail,com",
+825,2,Erik Vest,Erakond Eesti 200,02.02.1973,Puudub,Kõrgharidus,"Riigi Kinnisvara AS, arendus- ja ehitusprojektijuht",56267644,"vest.erik@gmail.com",
 826,3,Lauri Hussar,Erakond Eesti 200,04.09.1973,Erakond Eesti 200,Kõrgharidus,Vabakutseline ajakirjanik,,lauri.hussar@gmail.com,
 827,3,Ülo Pikkov,Erakond Eesti 200,15.06.1976,Erakond Eesti 200,Kõrgharidus,Filmitegija ja produtsent,,ylo.pikkov@eesti200.ee,
 828,3,Tiit Elenurm,Erakond Eesti 200,03.06.1952,Erakond Eesti 200,Kõrgharidus,"SA Estonian Business School, professor",,tiit.elenurm@eesti200.ee,
