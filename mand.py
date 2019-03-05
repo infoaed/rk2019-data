@@ -64,6 +64,9 @@ for di in dist:
                 elif heads[td]=="Reg nr":
                     print(heads[td], d.text)
                     res.append(d.text)
+                elif heads[td]=="Ringkond":
+                    print(heads[td], d.text.title())
+                    res.append(d.text.title())
                 elif heads[td]=="Kandidaadi nimi":
                     print(heads[td], d.text.title())
                     res.append(d.text.title())
